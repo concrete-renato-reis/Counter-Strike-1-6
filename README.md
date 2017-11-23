@@ -1,6 +1,7 @@
 # How to install and launch counter strike 1.6
-install couter strike 1.6 
+   > fire in the hole!!!
 
-[Imgur](https://i.imgur.com/XWkV929.jpg)
+   ![alt text](https://i.imgur.com/XWkV929.jpg)
+
 
 
